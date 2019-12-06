@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-
-Päivitys muutettu Hubissa, muutos Hubissa!
-=======
 Muutos 1
->>>>>>> 96be0b17a14ff640220eafbd68bad40fa897e6e6
 Päivitys 2?
 Päivitys 3%
 Tämä on lisätty GitHubissa!
