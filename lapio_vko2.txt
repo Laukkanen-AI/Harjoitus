@@ -1,4 +1,11 @@
+
 Päivitys muutettu Hubissa!
 Päivitys 2?
 Päivitys 3%
+<<<<<<< Updated upstream
+Tämä on lisätty GitHubissa, muokattu paikallisesti!
+=======
 Tämä on lisätty GitHubissa!
+paikallinen muutos
+
+>>>>>>> Stashed changes
